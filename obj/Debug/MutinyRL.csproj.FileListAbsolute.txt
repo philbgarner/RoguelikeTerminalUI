@@ -1,0 +1,14 @@
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\obj\Debug\MutinyRL.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\obj\Debug\MutinyRL.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\terminal8x8.png
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\MutinyRL.exe.config
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\MutinyRL.exe
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\MutinyRL.pdb
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\RogueSharp.dll
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\obj\Debug\MutinyRL.csproj.CopyComplete
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\obj\Debug\MutinyRL.exe
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\obj\Debug\MutinyRL.pdb
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\OpenTK.dll
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\RLNET.dll
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\OpenTK.xml
+C:\Users\Phil\source\repos\MutinyRL\MutinyRL\bin\Debug\OpenTK.dll.config

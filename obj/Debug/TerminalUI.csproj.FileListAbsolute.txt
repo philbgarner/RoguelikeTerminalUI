@@ -1,0 +1,16 @@
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\terminal8x8.png
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\OpenTK.dll
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\RLNET.dll
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\RogueSharp.dll
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\SadRex.dll
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\OpenTK.xml
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\OpenTK.dll.config
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\SadRex.xml
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\obj\Debug\TerminalUI.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\obj\Debug\TerminalUI.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\obj\Debug\TerminalUI.csproj.CopyComplete
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\TerminalUI.exe.config
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\TerminalUI.exe
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\bin\Debug\TerminalUI.pdb
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\obj\Debug\TerminalUI.exe
+C:\Users\Phil\source\repos\BanditryRL\MutinyRL\obj\Debug\TerminalUI.pdb
